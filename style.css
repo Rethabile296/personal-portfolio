@@ -404,17 +404,16 @@ article .icon {
 }
 
 .contact-icon {
-  cursor: default;
   height: 5vh;
 }
 
 .email-icon {
-  height: 2.5rem;
+  height: 3.5rem;
+  padding-left: 1rem;
 }
 
 .linkedin-icon {
   padding-left: 1rem;
-
 }
 
 /* FOOTER SECTION */
