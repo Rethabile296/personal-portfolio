@@ -177,7 +177,7 @@ section {
 }
 
 .pro-pic {
-  border-radius: 50%;
+  border-radius: 96%;
 }
 
 .section-text {
@@ -271,6 +271,8 @@ section {
 
 .about-container {
   gap: 2rem;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
 }
 
 .about-details-container {
@@ -359,6 +361,11 @@ article .icon {
   position: relative;
 }
 
+.color-container {
+  border-color:blueviolet;
+  background: white;
+}
+
 .project-img {
   border-radius: 3rem;
   width: 90%;
@@ -372,6 +379,7 @@ article .icon {
 
 .project-btn {
   color: black;
+  border-color:blueviolet;
 }
 
 /* CONTACT SECTION*/
